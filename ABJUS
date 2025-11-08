@@ -12,11 +12,12 @@
     "beta":true,
     "current_ban":false,
     "userid":"794"
+  },
+  {
+    "current_username":"giaa",
+    "current_hwid":"409818481561826607184846323",
+    "beta":true,
+    "current_ban":false,
+    "userid":794
   }
-{
-  "current_username":"giaa",
-  "current_hwid":"409818481561826607184846323",
-  "beta":true,
-  "current_ban":false,
-  "userid":794,
 ]
