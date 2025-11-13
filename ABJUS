@@ -26,5 +26,12 @@
     "beta":true,
     "current_ban":false,
     "userid":794
+  },
+  {
+    "current_username":"cabutulnik",
+    "current_hwid":"43189323858908580932398788",
+    "beta":true,
+    "current_ban":false,
+    "userid":253
   }
 ]
