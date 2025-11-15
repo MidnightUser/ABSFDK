@@ -21,7 +21,7 @@
     "userid":794
   },
   {
-    "current_username":"sonyyxhvh",
+    "current_username":"sonyx hvh",
     "current_hwid":"409860667196030096606706154",
     "beta":true,
     "current_ban":false,
@@ -42,8 +42,15 @@
     "userid":253
   },
   {
-    "current_username":"carlaoxixiu22",
+    "current_username":"carlaoxixiu",
     "current_hwid":"43186126348009348612648466",
+    "beta":true,
+    "current_ban":false,
+    "userid":253
+  },  
+  {
+    "current_username":"podpierdalacz",
+    "current_hwid":"4318106942165685781069434552",
     "beta":true,
     "current_ban":false,
     "userid":253
