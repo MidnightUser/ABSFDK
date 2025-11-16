@@ -54,5 +54,19 @@
     "beta":true,
     "current_ban":false,
     "userid":253
+  },
+  {
+    "current_username":"gigakotern",
+    "current_hwid":"409858982920829631589862937",
+    "beta":true,
+    "current_ban":false,
+    "userid":253
+  },
+  {
+    "current_username":"zud_x",
+    "current_hwid":"32902367661263294367694459",
+    "beta":true,
+    "current_ban":false,
+    "userid":253
   }
 ]
