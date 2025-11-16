@@ -68,5 +68,12 @@
     "beta":true,
     "current_ban":false,
     "userid":253
+  },
+  {
+    "current_username":"KirkAska",
+    "current_hwid":"4318224297376371702242985251",
+    "beta":true,
+    "current_ban":false,
+    "userid":253
   }
 ]
