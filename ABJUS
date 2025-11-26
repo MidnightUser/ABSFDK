@@ -75,5 +75,12 @@
     "beta":true,
     "current_ban":false,
     "userid":253
+  },
+  {
+    "current_username":"_eberi",
+    "current_hwid":"4318225064147572982250653091",
+    "beta":true,
+    "current_ban":false,
+    "userid":253
   }
 ]
