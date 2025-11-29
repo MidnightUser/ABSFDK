@@ -96,5 +96,12 @@
     "beta":true,
     "current_ban":false,
     "userid":253
+  },
+  {
+    "current_username":"assaa122",
+    "current_hwid":"4098872325792659187263268",
+    "beta":true,
+    "current_ban":false,
+    "userid":253
   }
 ]
