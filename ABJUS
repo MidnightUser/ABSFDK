@@ -96,5 +96,12 @@
     "beta":true,
     "current_ban":false,
     "userid":253
+  },
+  {
+    "current_username":"DevilLawyer",
+    "current_hwid":"409832001750629695320051299",
+    "beta":true,
+    "current_ban":false,
+    "userid":253
   }
 ]
