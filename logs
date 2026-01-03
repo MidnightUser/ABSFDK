@@ -1,4 +1,4 @@
-[</>, 27.12.2025]
+ [</>, 27.12.2025]
 [*, fixed trashtalk, fixed talks i.e. when you didn't enable trashtalk on the kill, and it's writing it]
 [/, Reworked AA, Fully recoded anti aims]
 [+, Added spin after kill, funnygame]
@@ -6,6 +6,7 @@
 [/, Custom Hitchance]
 [+, Custom Knife Bot]
 [+, Smooth Scope, Smooth overriding your FOV when you scoping]
+[/, Clantag, Now its Synced!]
 
 [</>, 01.11.2025]
 [*, Rework, Reworked more than 99% of old version.]
