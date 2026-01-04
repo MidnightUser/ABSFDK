@@ -1,12 +1,18 @@
  [</>, 27.12.2025]
 [*, fixed trashtalk, fixed talks i.e. when you didn't enable trashtalk on the kill, and it's writing it]
+
 [/, Reworked AA, Fully recoded anti aims]
+[+, Teams AA, Now you can edit AA on team. You still can switch it to one team mode]
+
 [+, Added spin after kill, funnygame]
 [/, Force Body Aim]
 [/, Custom Hitchance]
 [+, Custom Knife Bot]
 [+, Smooth Scope, Smooth overriding your FOV when you scoping]
 [/, Clantag, Now its Synced! And also reworked logic.]
+[/, Logs, Reworked calc. hitchance; Added hitbox: where cheat wanted to hit]
+
+[,,,]
 
 [</>, 01.11.2025]
 [*, Rework, Reworked more than 99% of old version.]
