@@ -3,6 +3,7 @@
 
 [/, Reworked AA, Fully recoded anti aims]
 [+, Teams AA, Now you can edit AA on team. You still can switch it to one team mode]
+[+, anti Bruteforce, Added AntiBruteforce. Default (+15 of default); Decrease ( based on curtime. +15*tan(curtime%10) ); Random ( random(-15,15) ) ]
 
 [+, Added spin after kill, funnygame]
 [/, Force Body Aim]
